@@ -3,6 +3,7 @@
 This is my submission for the SRM Full Stack Engineering Challenge. 
 It includes both the backend api and the frontend UI built together using Next.js.
 
+Vercel link- https://aditya-bfhl-challenge.vercel.app/
 ## Tech Stack
 - Next.js (App Router)
 - React
